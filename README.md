@@ -1,1 +1,1 @@
-# blog
+$vi~/.vimrc
